@@ -12,7 +12,7 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-
+//ciao
 @Entity
 @Table(name="accounts")
 @AllArgsConstructor @NoArgsConstructor
